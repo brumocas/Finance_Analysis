@@ -20,7 +20,7 @@ A Python application that performs financial analysis on transaction data from a
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
 - `pandas`
 - `matplotlib`
 - `tkinter`
